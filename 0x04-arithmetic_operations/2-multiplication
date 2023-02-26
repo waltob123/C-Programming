@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc ./2-multiplication.c -o ./multiplication
+gcc ./2-multiplication.c -o ./multiplication_test

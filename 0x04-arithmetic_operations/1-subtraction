@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc ./1-subtraction.c -o ./subtraction
+gcc ./1-subtraction.c -o ./subtraction_test
