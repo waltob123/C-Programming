@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gcc ./0-type_casting.c -o type_casting
+gcc ./0-type_casting.c -o type_casting_test
