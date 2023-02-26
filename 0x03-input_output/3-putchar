@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc ./3-putchar.c -o ./putchar

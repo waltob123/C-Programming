@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc ./2-getchar.c -o ./getchar

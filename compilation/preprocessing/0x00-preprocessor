@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcc -E ./0x00-main.c -o ./source.i
